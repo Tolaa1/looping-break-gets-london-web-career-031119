@@ -7,4 +7,4 @@ end
   puts "You passes the quiz!"
 end
 
- levitation_quiz
+ levitation
